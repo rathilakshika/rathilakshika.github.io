@@ -5,21 +5,20 @@
       value: Lakshika Rathi
     - name: Email
       value: lrathi@wisc.edu
-    - name: Pronouns
-      value: she/her
+    #- name: Pronouns
+    #  value: she/her
 
 - title: Education
   type: time_table
   contents:
     - title: Masters in Computer Sciences
-      institution: > 
-        University of Wisconsin-Madison
-        (4.00/4.00 GPA)
+      institution: 
+       "<span style='font-size: smaller;'> University of Wisconsin-Madison (4.00/4.00 GPA) </span>"
       year: 2023-2025
-    - title: Bachelors of Technology in Electrical Engineering
-      institution: > 
-        Indian Institute of Technology Delhi 
-        (9.23/10.00 GPA)
+    - title: Bachelors of Technology in Electrical Engineering with a Minor in Computer Science
+      institution: 
+        <span style='font-size: smaller;'> Indian Institute of Technology Delhi 
+        (9.23/10.00 GPA) </span>
       year: 2019-2023
 
 - title: Papers
