@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rathilakshika.github.io/al-folio/sitemap.xml
+Sitemap: https://rathilakshika.github.io/sitemap.xml
