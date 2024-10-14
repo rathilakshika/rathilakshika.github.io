@@ -12,20 +12,18 @@
   type: time_table
   contents:
     - title: Masters in Computer Sciences
-      institution: 
-       "<span style='font-size: smaller;'> University of Wisconsin-Madison (4.00/4.00 GPA) </span>"
+      institution: "<span style='font-size: smaller;'> University of Wisconsin-Madison (4.00/4.00 GPA) </span>"
       year: 2023-2025
     - title: Bachelors of Technology in Electrical Engineering with a Minor in Computer Science
-      institution: 
-        <span style='font-size: smaller;'> Indian Institute of Technology Delhi 
-        (9.23/10.00 GPA) </span>
+      institution: "<span style='font-size: smaller;'> Indian Institute of Technology Delhi
+        (9.23/10.00 GPA) </span>"
       year: 2019-2023
 
 - title: Papers
   type: time_table
   contents:
     - title: <a href="https://www.researchgate.net/publication/378277772_Quantum_Autoencoders_for_Learning_Quantum_Channel_Codes">Quantum Autoencoders for Learning Quantum Channel Codes</a>
-      year: 2024    
+      year: 2024
       maindescription: 16th International Conference on COMmunication Systems & NETworkS (COMSNETS)
     - title: "<a href='https://arxiv.org/pdf/2311.05604.pdf'> 3D-QAE: Fully Quantum Auto-Encoding of 3D Point Clouds </a>"
       year: 2023
@@ -34,4 +32,4 @@
 - title: Research
   type: time_table
   contents:
-    - title: 
+    - title:
