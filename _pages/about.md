@@ -6,7 +6,7 @@ subtitle: University of Wisconsin - Madison
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: profile_pic_old.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
