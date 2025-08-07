@@ -7,7 +7,7 @@ subtitle: Princeton University
 profile:
   align: right
   image: profile_plain.JPG
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info:
 
 news: true # includes a list of news items
