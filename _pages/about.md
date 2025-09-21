@@ -15,6 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Masters student in the Computer Sciences Department at the University of Wisconsin-Madison. I am currently a member of the [Quest Lab](https://quest-lab.cs.wisc.edu/), where I work under the guidance of [Prof. Swamit Tannu](https://swamittannu.com/). My primary research interests lie in Quantum Computing and Machine Learning, with a particular focus on Quantum Architecture and leveraging machine learning to address quantum problems.
+I am a Ph.D. student in the Computer Science department at Princeton University, advised by [Prof. Margaret Martonosi](https://mrm.scholar.princeton.edu/). My primary research interests lie in Quantum Architecture and Systems.
 
-I hold a Bachelor's in Electrical Engineering with a minor in Computer Science from the Indian Institute of Technology Delhi. During my undergrad, I focused on various aspects of Quantum Computing, gaining practical experience through internships in research labs and industry.
+I earned my Master's in Computer Sciences at the University of Wisconsin-Madison, where I was part of the [Quest Lab](https://quest-lab.cs.wisc.edu/) led by [Prof. Swamit Tannu](https://swamittannu.com/). There, I worked on developing software for neutral atom systems, studying classical parallelism and on finding the optimal mapping and routing for such systems. Additionally, I explored machine learning approaches for qubit readout and circuit benchmarking.
+
+I hold a Bachelor's in Electrical Engineering with a minor in Computer Science from the Indian Institute of Technology Delhi. During my undergraduate years, I gained practical experience in quantum computing through internships at research labs and in industry, working on diverse problems.
