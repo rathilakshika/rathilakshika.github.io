@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined MSCS Program at the University of Wisconsin-Madison.
+Joined MSCS Program at the [University of Wisconsin-Madison](https://www.wisc.edu/)!

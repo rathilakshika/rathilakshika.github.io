@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Participated in the [BigQ Hackathon](https://chicagoquantum.org/events/big-q-hackathon-cqe-and-quantx) hosted by CQE and QuantX
+Participated in the [BigQ Hackathon](https://chicagoquantum.org/events/big-q-hackathon-cqe-and-quantx) hosted by CQE and QuantX.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended [Research Week with Google](https://sites.google.com/view/researchweek2023/home) (ML foundations sub-track) — a 3-day event organized by Google Research India in Bangalore
+Attended [Research Week with Google](https://sites.google.com/view/researchweek2023/home) (ML foundations sub-track) — a 3-day event organized by Google Research India in Bangalore.

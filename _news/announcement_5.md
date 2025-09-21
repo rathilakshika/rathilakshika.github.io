@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended the [Grad Cohort Workshop for Women](https://cra.org/cra-wp/grad-cohort-for-women/#overview)
+Attended the [Grad Cohort Workshop for Women](https://cra.org/cra-wp/grad-cohort-for-women/#overview).

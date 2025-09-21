@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be interning at [Cisco Quantum Lab](https://research.cisco.com/), Germany for the 2023 Spring Semester
+I will be interning at [Cisco Quantum Lab](https://research.cisco.com/), Germany for the 2023 Spring Semester under [Dr. Stephen DiAdamo](https://scholar.google.com/citations?user=k9O1vSwAAAAJ&hl=en)!

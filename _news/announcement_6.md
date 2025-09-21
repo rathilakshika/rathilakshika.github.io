@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Indian Institute of Technology Delhi as an Undergraduate
+Joined [Indian Institute of Technology Delhi](https://home.iitd.ac.in/) as an Undergraduate!

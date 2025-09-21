@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Participated in the iQuHACK Hackathon, MIT's annual Quantum Hackathon
+Participated in the iQuHACK Hackathon, MIT's annual Quantum Hackathon.
