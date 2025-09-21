@@ -11,10 +11,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Computer Science
+      institution: "<span style='font-size: smaller;'> Princeton University </span>"
+      year: 2025-ongoing
     - title: Masters in Computer Sciences
-      institution: "<span style='font-size: smaller;'> University of Wisconsin-Madison (4.00/4.00 GPA) </span>"
+      institution: "<span style='font-size: smaller;'> University of Wisconsin-Madison </span>"
       year: 2023-2025
     - title: Bachelors of Technology in Electrical Engineering with a Minor in Computer Science
-      institution: "<span style='font-size: smaller;'> Indian Institute of Technology Delhi
-        (9.23/10.00 GPA) </span>"
+      institution: "<span style='font-size: smaller;'> Indian Institute of Technology Delhi </span>"
       year: 2019-2023
